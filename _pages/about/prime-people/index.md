@@ -56,7 +56,7 @@ Peter received his Ph.D. in Mathematics from Purdue University. Serves as Chair 
 <div class="col-lg-9" markdown="1">
 
 ###### Teri Simas 
-Teri received her Bachelor's degree in Sociology and Spanish from Central Washington University. She serves as PRIME Program Manager, the PRAGMA Program Manager, and has been with both programs since their inception; Analyst with the National Biomedical Computation Resource.
+Teri received her Bachelor's degree in Sociology and Spanish from Central Washington University. She serves as the PRIME Program Manager, the PRAGMA Program Manager, and has been with both programs since their inception.  In addition, she is an Analyst with the National Biomedical Computation Resource.
 
 **Professional Interests:** Inspiring students to perform at levels higher than their expectations.
 
