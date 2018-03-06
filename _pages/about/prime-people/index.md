@@ -557,49 +557,6 @@ Jung Hsin Lin received his Ph.D. in Biophysics from the University of Duisburg, 
 
 <div class="row">
 <div class="col-lg-3 text-center" markdown="1">
-![Kai Nan]({{ "/assets/images/img-people-knan.png" | absolute_url }})
-</div>
-
-<div class="col-lg-9" markdown="1">
-
-###### Kai Nan
-Kai Nan received his Ph.D. in Computer Science from the Institute of Computing Technology of Chinese Academy of Sciences (CAS). He is Associate Researcher in Computer Network Information Center (CNIC) of CAS; Director of Collaboration Environment Research Center (department dedicated to research and development for Collaboration Technology and e-Science Applications under CNIC); responsible for System Platform for Scientific Database of CAS; co-lead of Scientific Data Grid; serves on Steering Committee of PRAGMA; co-chair for Application Working Group of AOAN IPv6 Task Force.
-
-**Research Interests:** Data grid, collaborative computing, e-Science applications.
-
-**Recent PRIME Projects:**
-* Hierarchical Screening of Inhibitors Against Hemagglutinin and Identifying Possible Binding Pockets of the Trimeric Interface, with Victor Chu (PRIME 2011); Dr. Wilfred Li (UCSD) and Dr. Kevin Dong (CNIC)
-* OPAL Dashboard with DUCKLING Tools, with Brian Zhang (PRIME 2011); Dr. Wilfred Li (UCSD), Dr. Kevin Dong (CNIC)
-* Comparative Sequence Analysis of Circulating and Pandemic Flu Viruses in Swine and Humans, with Alicia Lee (PRIME 2010); Dr. Wilfred Li (UCSD) and Dr. Jianjun Yu (CNIC)
-
-</div>
-</div>
-
----
-
-<div class="row">
-<div class="col-lg-3 text-center" markdown="1">
-![Kejun (Kevin) Dong, Ph.D. and M.S.]({{ "/assets/images/img-people-kdong.png" | absolute_url }})
-</div>
-
-<div class="col-lg-9" markdown="1">
-
-###### Kejun (Kevin) Dong, Ph.D. and M.S.
-Kejun (Kevin) Dong, Ph.D. and M.S. from Institute of Computer Technology (ICT) of Chinese Academy of Sciences (CAS) in Computer Science; B.S. from Peking University; Associate Researcher at Computer Network Information Center (CNIC); Visiting Scholar at UCSD in 2010.
-
-**Research Interests:** Collaboration technology, grid computing, mass data storage, grid visualization.
-
-**Recent PRIME Projects:**
-* Hierarchical Screening of Inhibitors against Hemagglutinin and Identifying Possible Binding Pockets of the Trimeric Interface, with Victor Chu (PRIME 2011); Dr. Wilfred Li (UCSD) and Dr. Kai Nan (CNIC)
-* OPAL Dashboard with DUCKLING Tools, with Brian Zhang (PRIME 2011); Dr. Wilfred Li (UCSD), Dr. Kai Nan (CNIC)
-
-</div>
-</div>
-
----
-
-<div class="row">
-<div class="col-lg-3 text-center" markdown="1">
 ![Yongzheng Ma]({{ "/assets/images/img-people-yma.png" | absolute_url }})
 </div>
 
